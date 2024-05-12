@@ -24,7 +24,9 @@ struct ContentView: View {
             Button("Click Me!") {
                 print("Hello World")
             }
-            
+            Button("Click Me2!") {
+                print("Hello World")
+            }
             
         }
         .padding()
