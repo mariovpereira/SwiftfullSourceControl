@@ -16,7 +16,7 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             HStack{
-                Text("The World!")
+                Text("Modified after adding Testing.swift file")
                 Image(systemName: "globe.americas.fill")
                     .imageScale(.large)
                     .foregroundStyle(.tint)
