@@ -21,7 +21,7 @@ struct ContentView: View {
                     .imageScale(.large)
                     .foregroundStyle(.tint)
             }
-            Button("Click Me!") {
+            Button("Click Me Too!") {
                 print("Hello World")
             }
             Button("Subscribe NOW!!!") {
