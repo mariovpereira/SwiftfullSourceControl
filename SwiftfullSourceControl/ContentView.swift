@@ -24,7 +24,7 @@ struct ContentView: View {
             Button("Click Me!") {
                 print("Hello World")
             }
-            Button("Click Me2!") {
+            Button("Subscribe NOW!!!") {
                 print("Hello World")
             }
             Rectangle()
