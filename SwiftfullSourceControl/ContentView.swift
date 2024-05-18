@@ -18,6 +18,7 @@ struct ContentView: View {
                             .font(.largeTitle)
                             .foregroundStyle(.tint)
                         Text("Swiftful Thinking!!!!")
+                        Text("MERGED CHANGES")
                         Button("Click me!") {
                             print("Button Clicked!")
                         }
