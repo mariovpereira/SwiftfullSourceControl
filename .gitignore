@@ -1,0 +1,90 @@
+# Xcode .gitignore
+# macOS .DS_Store files
+.DS_Store
+
+# Xcode workspace - personal workspace settings
+xcuserdata/
+
+# Xcode project - personal project settings
+project.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+
+# DeriveData - build results
+DerivedData/
+
+# Swift Package Manager
+.build/
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/Build/
+
+# Build products
+*.o
+*.d
+*.tbd
+*.linkFileList
+*.hmap
+*.ipa
+
+# Various settings
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+*.xccheckout
+*.moved-aside
+
+# ignore generated openAPI files 
+*.generated.swift
+
+# temporary files that should never be committed
+*.swp
+*~.nib
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# Swift PM
+.swift-version
+/.build/
+
+# Package.resolved: Check into SCM to share the resolved versions of each package.
+# Package.pins is ignored as it is deprecated and no longer present in newer SPM versions.
+# OLD SPM: .build/checkouts/
+# OLD SPM: .build/repositories/
+*.resolved
+
+# OS-specific settings
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
