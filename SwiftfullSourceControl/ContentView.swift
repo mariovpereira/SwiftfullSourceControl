@@ -5,6 +5,20 @@
 //  Created by Mario Pereira on 5/11/24.
 //
 
+/*
+ Clone
+ Stage
+ Commit
+ Stage
+ Push
+ Pull
+ Rebase
+ Merge
+ Cherry Pick
+ Pull Request (PR)
+
+ */
+
 import SwiftUI
 
 struct ContentView: View {
