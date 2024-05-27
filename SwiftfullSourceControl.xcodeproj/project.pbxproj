@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7A25F1782C0528CD00BEBE18 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A25F1772C0528CD00BEBE18 /* ProfileView.swift */; };
 		7A2E83B72C02C30A0065E6A5 /* SetingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A2E83B62C02C30A0065E6A5 /* SetingsView.swift */; };
 		7A8D02E62BF107F800500062 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A8D02E52BF107F800500062 /* HomeView.swift */; };
 		7AA9E2FA2BF0255600ACFC9B /* SwiftfullSourceControlApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AA9E2F92BF0255600ACFC9B /* SwiftfullSourceControlApp.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7A25F1772C0528CD00BEBE18 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
 		7A2E83B62C02C30A0065E6A5 /* SetingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SetingsView.swift; sourceTree = "<group>"; };
 		7A8D02E52BF107F800500062 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		7AA9E2F62BF0255600ACFC9B /* SwiftfullSourceControl.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftfullSourceControl.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -59,6 +61,7 @@
 				7AA9E2FB2BF0255600ACFC9B /* ContentView.swift */,
 				7A8D02E52BF107F800500062 /* HomeView.swift */,
 				7A2E83B62C02C30A0065E6A5 /* SetingsView.swift */,
+				7A25F1772C0528CD00BEBE18 /* ProfileView.swift */,
 				7AA9E2FD2BF0255700ACFC9B /* Assets.xcassets */,
 				7AA9E2FF2BF0255700ACFC9B /* Preview Content */,
 			);
@@ -145,6 +148,7 @@
 			files = (
 				7A2E83B72C02C30A0065E6A5 /* SetingsView.swift in Sources */,
 				7A8D02E62BF107F800500062 /* HomeView.swift in Sources */,
+				7A25F1782C0528CD00BEBE18 /* ProfileView.swift in Sources */,
 				7AA9E2FC2BF0255600ACFC9B /* ContentView.swift in Sources */,
 				7AA9E2FA2BF0255600ACFC9B /* SwiftfullSourceControlApp.swift in Sources */,
 			);
