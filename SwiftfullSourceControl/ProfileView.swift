@@ -8,6 +8,8 @@
 import SwiftUI
 
 struct ProfileView: View {
+    
+    @State private var isDarkMode: Bool = false
     var body: some View {
         Text("Nick!!!!!")
     }
