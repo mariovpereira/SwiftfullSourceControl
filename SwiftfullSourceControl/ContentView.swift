@@ -9,13 +9,15 @@
  Clone
  Stage
  Commit
- Stage
+ Stash
  Push
  Pull
- Rebase
  Merge
+ Rebase
  Cherry Pick
  Pull Request (PR)
+ PR Merge
+ PR Squash
 
  */
 
