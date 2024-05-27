@@ -33,7 +33,7 @@ struct ContentView: View {
                             .foregroundStyle(.tint)
                         Text("Mario is Thinking!!!!")
                         Text("And Learning.... GIT")
-                        Button("Click me!") {
+                        Button("Crappy Change") {
                             print("Button Clicked!")
                         }
                         
