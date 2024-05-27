@@ -34,7 +34,7 @@ struct ContentView: View {
                         Text("Mario is Thinking!!!!")
                         Text("And Learning.... GIT")
                         Button("Crappy Change") {
-                            print("Button Clicked!")
+                            print("Swiftfull Thinking!")
                         }
                         
                     }
