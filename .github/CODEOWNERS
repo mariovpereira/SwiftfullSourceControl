@@ -1,0 +1,11 @@
+# Code owner for all files in the root directory
+*       @mariovpereira
+
+# Code owner for all files in the `src/` directory
+/src/       @mariovpereira
+
+# Code owner for all `.md` documentation files
+*.md       @mariovpereira
+
+# Specific folder ownership
+/docs/     @mariovpereira
