@@ -8,8 +8,10 @@
 import SwiftUI
 
 struct SetingsView: View {
+    
+    @State private var isDarkMode: Bool = false
     var body: some View {
-        Text("Settings View")
+        Text("Settings View!")
     }
 }
 
