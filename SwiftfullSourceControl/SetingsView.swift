@@ -9,7 +9,7 @@ import SwiftUI
 
 struct SetingsView: View {
     
-    @State private var isDarkMode: Bool = false
+    @State private var isDarkMode: Bool = true
     var body: some View {
         Text("Settings View!")
     }
